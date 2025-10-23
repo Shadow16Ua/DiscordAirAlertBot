@@ -1,0 +1,9 @@
+# Секрети та токени
+.env
+
+# Файли кешу Python
+__pycache__/
+*.pyc
+
+# Файли постійності (на Render)
+/var/data/message_id.txt
